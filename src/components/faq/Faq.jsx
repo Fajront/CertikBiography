@@ -18,9 +18,9 @@ export class Faq extends Component {
           <p className='txtsetup'>
             V budúcnosti mám v pláne pracovať na pokrokových  
             <br/>
-             projektoch a technológiách
+             projektoch a technológiach
             <br/>
-              a zdokonovalovať sa ako full stack  deveoloper.
+              a zdokonovalovať sa ako full-stack  developer.
             <br/>
               Chcem vám pomôcť dosiahnúť maximum.
             <br/>
@@ -46,7 +46,7 @@ export class Faq extends Component {
                 <br/>  
                 rýchlo pochopiť a prispôsobiť sa novým veciam.
                 <br/>
-                  Som lenivý ale tým správnim spôsobom , iste viete čo mám na mysli.
+                  Som lenivý ,ale tým správnim spôsobom ,ako developer iste viete čo mám na mysli.
                 </p>
 
           </div>
@@ -67,9 +67,9 @@ export class Faq extends Component {
              
                 <p className='txtsetup'>Vždy som bol tímový hráč. 
               <br/>
-              Verím že budem skvelý prínos do vašej firmi a vhodný
+              Verím že budem skvelý prínos do vašej firmy a vhodný
               <br/>
-               človek do vašeho kolektívu.  
+               človek do vášho kolektívu.  
               <br/>  
               
               <br/>

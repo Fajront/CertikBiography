@@ -23,7 +23,7 @@ class Experiences extends Component {
 							<div className="pra">
 								<p>Pokročilé skúsnosti v Html,Css, a Javascript a React.js.
 									<br/>
-									Znalost  Git a Github , wordpress , bootstrap , electron
+									Znalosť  Git a Github , wordpress , bootstrap , electron
 								
 								</p>
 								<p>	V minulosti som pracoval aj s programovacími jazkymi C a PHP
@@ -55,8 +55,8 @@ class Experiences extends Component {
 						<div className="card" id='card3'>
 							<h5>Vedlajšie</h5>
 							<div className="pra">
-								<p>Ovládam pokročilu Angličtinu (B2)</p>
-								<p>Mám Základne znalosti Sietovích technológií a fungovania internetu</p>
+								<p>Ovládam pokročilú Angličtinu (B2)</p>
+								<p>Mám základne znalosti Sietovích technológií a fungovania internetu</p>
 								<p></p>
 							</div>
 								</div>

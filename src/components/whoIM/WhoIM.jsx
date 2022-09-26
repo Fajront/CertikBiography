@@ -22,11 +22,11 @@ export class WhoIM extends Component {
           </AnimationOnScroll>
 
             <p className='textSet'>
-                Na začiatok vám poviem niečo o mne. Volám sa Marek Čertík a som
+                Na začiatok vám poviem niečo o sebe. Volám sa Marek Čertík a som 
                 <br/>  
-                študentom strednej odbornej školy so zameraním  informačné a sieťové
+                študentom na strednej odbornej školy so zameraním  informačné a sieťové
                 <br/>
-                technológie. Mám 16 rokov a pochádzam z mesta Prievidza.  
+                technológie. Mám 16 rokov a pochádzam z okresu Prievidza.  
                 <br/>
                 Vo volnom čase sa venujem programovaniu, je to moja vášeň.
                 <br/> 
