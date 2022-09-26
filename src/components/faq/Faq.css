@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+.fld{
+    padding:  15px;
+    background-size: cover;
+    background-position: 66% 50%;
+    background-repeat: no-repeat;
+    background: #0ead82;;
+    width: 100%;
+    height: 200vh;
+    pointer-events: none;
+    padding-top: 10px;
+
+}
+.whoIM{
+font-size: 50px;
+color: #0ead82;
+text-align: center;
+}
+.contentbox1{
+  font-family: 'Poppins', sans-serif;
+position: flex;
+float: right;
+margin-top: 5px;
+top: 0%;
+margin-right: 100px ;}
+.contentbox2{
+  font-family: 'Poppins', sans-serif;
+    position: flex;
+    float: left;
+    margin-top: 5px;
+    top: 0%;
+   margin-left: 100px ;}
+    
+   .contentbox3{
+    font-family: 'Poppins', sans-serif;
+    position: flex;
+    float: right;
+    margin-top: 5px;
+    top: 0%;
+    margin-right: 100px ;}
+
+    .imgteam {
+        position: relative;
+       left: 8%;
+        width: 450px;
+        height: 450px;
+        background-image: url(team.svg);
+      }
+
+      @media only screen and (max-width: 1200px) {
+        .imgteam{
+            display: none;
+        }
+        .fld{min-height: 60vh; }
+        
+      }
+
+     .faqtitle{
+      text-align: center;
+      margin-top: 150px;
+      font-size: 45px;
+      line-height: 5px;
+      color: rgb(255, 255, 255);
+    }
+
+    .txtsetup{
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      line-height: 30px;
+    }
+    

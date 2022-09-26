@@ -1,0 +1,22 @@
+.cut{position: flex;
+    background-size: cover; 
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 66% 50%;
+     border-bottom: 5px solid #0ead82;
+}
+
+.cutimg{
+    position: flex; 
+    background-size: cover; 
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.blur{
+     
+    height: 10vh;
+    position: absolute;
+    width: 100%;
+    background-color: #0ead82;}
+
+    

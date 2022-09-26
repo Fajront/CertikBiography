@@ -1,0 +1,58 @@
+.field{
+        padding:  15px;
+        background-size: cover;
+        background-position: 66% 50%;
+        background-repeat: no-repeat;
+        background:  #1d2023;
+        width: 100%;
+        height: 120vh;
+        pointer-events: none;
+        padding-top: 10px;
+    
+}
+.whoIM{
+    font-size: 50px;
+    color: #119990;
+    text-align: center;
+}
+.contentbox{
+    position:relative;
+    float: right;
+    margin-top: 5px;
+    top: 0%;
+    right: 12%;}
+.pictureofme{
+    margin-top: 90px; 
+    margin-left: 50px;
+    border: 3px #119990 solid;
+    border-radius: 48%;}
+
+    @media only screen and (max-width: 1300px) {
+        .pictureofme{display: none;}
+        .contentbox{ 
+            
+            width: 50%;
+            margin: auto;
+            float: none;
+            right: 0%;
+            
+           
+            
+           }
+
+           .field{ height: 150vh;}
+      }
+
+      @media only screen and (max-width: 768px) {
+             .whoIM{display: none;}
+      }
+
+      .green{color: #119990;}
+
+      .textSet{
+        font-weight: 700;
+        line-height: 30px;
+        text-align: center;
+        font-size: 16px;
+        font-family: 'Poppins', sans-serif;
+    }

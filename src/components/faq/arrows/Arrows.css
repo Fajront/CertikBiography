@@ -1,0 +1,21 @@
+.arw{position: relative;
+ top: 15%;
+ margin-top:50px ;
+}
+.arwCenter{max-width: 500px;}
+
+#arw1{}
+#arw2{left: 15%;}
+
+
+@media only screen and (max-width: 1200px) {
+    .arw{display: none;}
+  }
+
+  @media only screen and (max-width: 1950px) {
+    #arw2{left: 30%;}
+  }
+
+  @media only screen and (max-width: 1600px) {
+    #arw2{left: 15%;}
+  }
