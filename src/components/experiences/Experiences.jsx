@@ -26,9 +26,9 @@ class Experiences extends Component {
 									Znalosť  Git a Github , wordpress , bootstrap , electron
 								
 								</p>
-								<p>	V minulosti som pracoval aj s programovacími jazkymi C a PHP
+								<p>	V minulosti som pracoval aj s programovacími jazykmi C a PHP
 								<br/>
-									 Základne znalosti aj s jazykom SQL (mySQL)
+									 Základné znalosti aj s jazykom SQL (mySQL)
 								<br/>			
 									Začiatočník v oblasti Java , Python
 								</p>
@@ -43,9 +43,9 @@ class Experiences extends Component {
 							<h5>Prax</h5>
 							<div className="pra">
 								<p>Donedávna som bol stážista v začínajúcej firme U:BIT</p>
-								<p>Mám za sebou par freelance skúsenosti</p>
+								<p>Mám za sebou pár freelance skúsenosti</p>
 								<p>Vytvoril som viacero webov</p>
-								<p>Podielal som sa na tvorený webovej aplikácie na objednávanie jedla</p>
+								<p>Podielal som sa na tvorení webovej aplikácie na objednávanie jedla</p>
 							</div>
 						</div>
 					</AnimationOnScroll>
@@ -53,10 +53,10 @@ class Experiences extends Component {
 						<AnimationOnScroll animateOnce={true} animateIn="animate__slideInUp" delay={1000}>
 
 						<div className="card" id='card3'>
-							<h5>Vedlajšie</h5>
+							<h5>Vedľajšie</h5>
 							<div className="pra">
 								<p>Ovládam pokročilú Angličtinu (B2)</p>
-								<p>Mám základne znalosti Sietovích technológií a fungovania internetu</p>
+								<p>Mám základné znalosti Sietových technológií a fungovania internetu</p>
 								<p></p>
 							</div>
 								</div>

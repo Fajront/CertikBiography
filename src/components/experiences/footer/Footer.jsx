@@ -15,7 +15,7 @@ const bottomFooter = () => {
   return (
     <div class="foot" >
       <div class="footere">
-        <p className="thankYou" >Ďakujem že ste sa dostali až sem</p>
+        <p className="thankYou" >Ďakujem, že ste sa dostali až sem</p>
         <span className="green">Tu ma možete kontaktovať:</span>
         <p>
         <br/>

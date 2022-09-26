@@ -39,14 +39,14 @@ export class Faq extends Component {
           <div className='contentbox2'>  
             <h3 className='faqtitle'>Osobné vlastnosti</h3>
                 <p className='txtsetup'>
-                  Som komunikatívný a pracovitý človek. 
+                  Som komunikatívny a pracovitý človek. 
                 <br/>
-                 Medzi moje silne stránky patrí prevažene učenlivosť a schopnosť
+                 Medzi moje silné stránky patrí prevažne učenlivosť a schopnosť
                 <br/>
                 <br/>  
                 rýchlo pochopiť a prispôsobiť sa novým veciam.
                 <br/>
-                  Som lenivý ,ale tým správnim spôsobom ,ako developer iste viete čo mám na mysli.
+                  Som lenivý ,ale tým správnym spôsobom ako developer iste viete čo mám na mysli.
                 </p>
 
           </div>
@@ -60,14 +60,14 @@ export class Faq extends Component {
           <div className='contentbox3'>  
             <h3 className='faqtitle'>Prečo práve ja ?</h3>
             <p className='txtsetup'>
-              Mám za sebou niekoľko pracovných skúsenosti a to
+              Mám za sebou pracovnú skúsenosť ako stážista v web development firme. 
               <br/>
-              nielen v obore IT, kde som sa  naučil pracovať vo vačšej skupine luďí.
+
               </p>
              
                 <p className='txtsetup'>Vždy som bol tímový hráč. 
               <br/>
-              Verím že budem skvelý prínos do vašej firmy a vhodný
+              Verím, že budem skvelý prínos do vašej firmy a vhodný
               <br/>
                človek do vášho kolektívu.  
               <br/>  
